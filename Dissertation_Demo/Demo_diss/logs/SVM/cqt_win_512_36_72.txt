@@ -1,0 +1,24 @@
+['DGDGBD' 'DADGBE' 'EADGBE' 'EADGBE' 'EADGBE' 'EADGBE' 'DAEGAD' 'DADGBE'
+ 'DADGBE']
+[1 1 1 2 1 1 3 2 1]
+['DAEGAD' 'DAEGAD' 'DAEGAD' 'DGDGBD' 'DAEGAD' 'DAEGAD' 'EADGBE' 'DGDGBD'
+ 'DAEGAD']
+['C:\\Users\\deeon\\OneDrive\\Documents\\Project\\audio\\Windowed\\DGDGBD\\DGDGBD_500.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Project\\audio\\Windowed\\DADGBE\\DADGBE_205.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Project\\audio\\Windowed\\EADGBE\\EADGBE_707.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Project\\audio\\Windowed\\EADGBE\\EADGBE_708.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Project\\audio\\Windowed\\EADGBE\\EADGBE_348.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Project\\audio\\Windowed\\EADGBE\\EADGBE_529.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Project\\audio\\Windowed\\DAEGAD\\DAEGAD_162.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Project\\audio\\Windowed\\DADGBE\\DADGBE_574.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Project\\audio\\Windowed\\DADGBE\\DADGBE_188.wav']
+#General Parameters 
+ sr = 44100 
+hop_length = 512
+ #MFCC Parameters 
+n_fft = 2048
+ n_mels = 128
+ n_mfcc = 13 
+#CQT Parameters
+ fmin = 36
+ n_bins = 72

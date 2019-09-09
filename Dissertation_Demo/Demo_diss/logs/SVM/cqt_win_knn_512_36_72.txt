@@ -1,0 +1,77 @@
+['DAEGAD' 'DGDGBD' 'DAEGAD' 'DAEGAD' 'DAEGAD' 'DGDGBD' 'EADGBE' 'DGDGBD'
+ 'DGDGBD' 'DAEGAD' 'DAEGAD' 'DAEGAD' 'DADGBE' 'DADGBE' 'DADGBE' 'DAEGAD'
+ 'DAEGAD' 'DADGBE' 'DAEGAD' 'DADGBE' 'DGDGBD' 'DADGBE' 'DGDGBD' 'DGDGBD'
+ 'DADGBE' 'DADGBE' 'DADGBE' 'DADGBE' 'DGDGBD' 'DGDGBD' 'DAEGAD' 'EADGBE'
+ 'DAEGAD' 'DADGBE' 'DADGBE' 'EADGBE' 'DGDGBD' 'DAEGAD' 'DGDGBD' 'DADGBE'
+ 'DAEGAD' 'DADGBE' 'DAEGAD' 'DAEGAD' 'DADGBE' 'DGDGBD' 'DAEGAD' 'DGDGBD'
+ 'DGDGBD' 'DADGBE' 'DADGBE']
+[0 1 3 0 2 0 1 1 0 0 0 0 1 1 1 0 0 1 0 1 0 2 0 0 1 1 1 1 1 0 0 2 0 1 1 0 0
+ 2 0 1 2 1 0 0 2 0 2 1 0 2 1]
+['DADGBE' 'DAEGAD' 'EADGBE' 'DADGBE' 'DGDGBD' 'DADGBE' 'DAEGAD' 'DAEGAD'
+ 'DADGBE' 'DADGBE' 'DADGBE' 'DADGBE' 'DAEGAD' 'DAEGAD' 'DAEGAD' 'DADGBE'
+ 'DADGBE' 'DAEGAD' 'DADGBE' 'DAEGAD' 'DADGBE' 'DGDGBD' 'DADGBE' 'DADGBE'
+ 'DAEGAD' 'DAEGAD' 'DAEGAD' 'DAEGAD' 'DAEGAD' 'DADGBE' 'DADGBE' 'DGDGBD'
+ 'DADGBE' 'DAEGAD' 'DAEGAD' 'DADGBE' 'DADGBE' 'DGDGBD' 'DADGBE' 'DAEGAD'
+ 'DGDGBD' 'DAEGAD' 'DADGBE' 'DADGBE' 'DGDGBD' 'DADGBE' 'DGDGBD' 'DAEGAD'
+ 'DADGBE' 'DGDGBD' 'DAEGAD']
+['C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DAEGAD\\DAEGAD_58.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DGDGBD\\DGDGBD_161.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DAEGAD\\DAEGAD_8.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DAEGAD\\DAEGAD_155.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DAEGAD\\DAEGAD_62.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DGDGBD\\DGDGBD_109.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\EADGBE\\EADGBE_44.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DGDGBD\\DGDGBD_97.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DGDGBD\\DGDGBD_55.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DAEGAD\\DAEGAD_165.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DAEGAD\\DAEGAD_22.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DAEGAD\\DAEGAD_110.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DADGBE\\DADGBE_6.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DADGBE\\DADGBE_146.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DADGBE\\DADGBE_59.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DAEGAD\\DAEGAD_223.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DAEGAD\\DAEGAD_35.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DADGBE\\DADGBE_163.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DAEGAD\\DAEGAD_150.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DADGBE\\DADGBE_4.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DGDGBD\\DGDGBD_96.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DADGBE\\DADGBE_126.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DGDGBD\\DGDGBD_57.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DGDGBD\\DGDGBD_13.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DADGBE\\DADGBE_289.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DADGBE\\DADGBE_72.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DADGBE\\DADGBE_123.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DADGBE\\DADGBE_188.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DGDGBD\\DGDGBD_197.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DGDGBD\\DGDGBD_98.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DAEGAD\\DAEGAD_145.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\EADGBE\\EADGBE_165.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DAEGAD\\DAEGAD_163.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DADGBE\\DADGBE_205.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DADGBE\\DADGBE_75.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\EADGBE\\EADGBE_23.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DGDGBD\\DGDGBD_2.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DAEGAD\\DAEGAD_16.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DGDGBD\\DGDGBD_206.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DADGBE\\DADGBE_79.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DAEGAD\\DAEGAD_225.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DADGBE\\DADGBE_15.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DAEGAD\\DAEGAD_249.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DAEGAD\\DAEGAD_49.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DADGBE\\DADGBE_103.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DGDGBD\\DGDGBD_79.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DAEGAD\\DAEGAD_102.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DGDGBD\\DGDGBD_164.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DGDGBD\\DGDGBD_120.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DADGBE\\DADGBE_224.wav'
+ 'C:\\Users\\deeon\\OneDrive\\Documents\\Demo_diss\\audio\\Windowed\\DADGBE\\DADGBE_161.wav']
+#General Parameters 
+ sr = 44100 
+hop_length = 512
+ #MFCC Parameters 
+n_fft = 2048
+ n_mels = 128
+ n_mfcc = 13 
+#CQT Parameters
+ fmin = 36
+ n_bins = 72

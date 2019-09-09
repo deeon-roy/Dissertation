@@ -1,0 +1,14 @@
+[]
+[]
+[]
+[]
+#General Parameters 
+ sr = 44100 
+hop_length = 512
+ #MFCC Parameters 
+n_fft = 2048
+ n_mels = 128
+ n_mfcc = 13 
+#CQT Parameters
+ fmin = 36
+ n_bins = 72

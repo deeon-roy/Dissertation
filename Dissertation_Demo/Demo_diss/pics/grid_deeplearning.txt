@@ -1,0 +1,35 @@
+best parameters are:
+{'activation': 'relu', 'fc_layers': [12], 'batch_size': 5, 'epochs': 150, 'optimizer': 'adam'}
+Best: 0.979709 using {'activation': 'relu', 'fc_layers': [12], 'batch_size': 5, 'epochs': 150, 'optimizer': 'adam'}
+0.971769 (0.010910) with: {'activation': 'relu', 'fc_layers': [12], 'batch_size': 5, 'epochs': 100, 'optimizer': 'rmsprop'}
+0.972210 (0.006488) with: {'activation': 'relu', 'fc_layers': [12], 'batch_size': 5, 'epochs': 100, 'optimizer': 'adam'}
+0.955007 (0.006190) with: {'activation': 'relu', 'fc_layers': [12, 6], 'batch_size': 5, 'epochs': 100, 'optimizer': 'rmsprop'}
+0.976621 (0.011618) with: {'activation': 'relu', 'fc_layers': [12, 6], 'batch_size': 5, 'epochs': 100, 'optimizer': 'adam'}
+0.924570 (0.013479) with: {'activation': 'relu', 'fc_layers': [6, 6, 6], 'batch_size': 5, 'epochs': 100, 'optimizer': 'rmsprop'}
+0.927658 (0.013829) with: {'activation': 'relu', 'fc_layers': [6, 6, 6], 'batch_size': 5, 'epochs': 100, 'optimizer': 'adam'}
+0.919277 (0.018840) with: {'activation': 'relu', 'fc_layers': [6], 'batch_size': 5, 'epochs': 100, 'optimizer': 'rmsprop'}
+0.930745 (0.028918) with: {'activation': 'relu', 'fc_layers': [6], 'batch_size': 5, 'epochs': 100, 'optimizer': 'adam'}
+0.967799 (0.007446) with: {'activation': 'relu', 'fc_layers': [12], 'batch_size': 5, 'epochs': 150, 'optimizer': 'rmsprop'}
+0.979709 (0.003807) with: {'activation': 'relu', 'fc_layers': [12], 'batch_size': 5, 'epochs': 150, 'optimizer': 'adam'}
+0.960300 (0.004850) with: {'activation': 'relu', 'fc_layers': [12, 6], 'batch_size': 5, 'epochs': 150, 'optimizer': 'rmsprop'}
+0.961623 (0.011104) with: {'activation': 'relu', 'fc_layers': [12, 6], 'batch_size': 5, 'epochs': 150, 'optimizer': 'adam'}
+0.923247 (0.012104) with: {'activation': 'relu', 'fc_layers': [6, 6, 6], 'batch_size': 5, 'epochs': 150, 'optimizer': 'rmsprop'}
+0.943538 (0.016508) with: {'activation': 'relu', 'fc_layers': [6, 6, 6], 'batch_size': 5, 'epochs': 150, 'optimizer': 'adam'}
+0.918835 (0.027529) with: {'activation': 'relu', 'fc_layers': [6], 'batch_size': 5, 'epochs': 150, 'optimizer': 'rmsprop'}
+0.940009 (0.015956) with: {'activation': 'relu', 'fc_layers': [6], 'batch_size': 5, 'epochs': 150, 'optimizer': 'adam'}
+0.876489 (0.027759) with: {'activation': 'tanh', 'fc_layers': [12], 'batch_size': 5, 'epochs': 100, 'optimizer': 'rmsprop'}
+0.895015 (0.022487) with: {'activation': 'tanh', 'fc_layers': [12], 'batch_size': 5, 'epochs': 100, 'optimizer': 'adam'}
+0.931628 (0.027611) with: {'activation': 'tanh', 'fc_layers': [12, 6], 'batch_size': 5, 'epochs': 100, 'optimizer': 'rmsprop'}
+0.940450 (0.021242) with: {'activation': 'tanh', 'fc_layers': [12, 6], 'batch_size': 5, 'epochs': 100, 'optimizer': 'adam'}
+0.907367 (0.010247) with: {'activation': 'tanh', 'fc_layers': [6, 6, 6], 'batch_size': 5, 'epochs': 100, 'optimizer': 'rmsprop'}
+0.915307 (0.029035) with: {'activation': 'tanh', 'fc_layers': [6, 6, 6], 'batch_size': 5, 'epochs': 100, 'optimizer': 'adam'}
+0.825761 (0.037190) with: {'activation': 'tanh', 'fc_layers': [6], 'batch_size': 5, 'epochs': 100, 'optimizer': 'rmsprop'}
+0.829290 (0.051657) with: {'activation': 'tanh', 'fc_layers': [6], 'batch_size': 5, 'epochs': 100, 'optimizer': 'adam'}
+0.891928 (0.026270) with: {'activation': 'tanh', 'fc_layers': [12], 'batch_size': 5, 'epochs': 150, 'optimizer': 'rmsprop'}
+0.891928 (0.016447) with: {'activation': 'tanh', 'fc_layers': [12], 'batch_size': 5, 'epochs': 150, 'optimizer': 'adam'}
+0.938685 (0.014663) with: {'activation': 'tanh', 'fc_layers': [12, 6], 'batch_size': 5, 'epochs': 150, 'optimizer': 'rmsprop'}
+0.954566 (0.006909) with: {'activation': 'tanh', 'fc_layers': [12, 6], 'batch_size': 5, 'epochs': 150, 'optimizer': 'adam'}
+0.902514 (0.011515) with: {'activation': 'tanh', 'fc_layers': [6, 6, 6], 'batch_size': 5, 'epochs': 150, 'optimizer': 'rmsprop'}
+0.913983 (0.045215) with: {'activation': 'tanh', 'fc_layers': [6, 6, 6], 'batch_size': 5, 'epochs': 150, 'optimizer': 'adam'}
+0.816939 (0.047260) with: {'activation': 'tanh', 'fc_layers': [6], 'batch_size': 5, 'epochs': 150, 'optimizer': 'rmsprop'}
+0.858403 (0.013694) with: {'activation': 'tanh', 'fc_layers': [6], 'batch_size': 5, 'epochs': 150, 'optimizer': 'adam'}
